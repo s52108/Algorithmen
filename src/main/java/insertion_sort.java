@@ -36,4 +36,4 @@ public class insertion_sort {
  
         printArray(arr);
     }
-};
+}
